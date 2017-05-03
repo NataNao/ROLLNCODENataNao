@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ROLLNCODE NataNao</string>
+    <string name="time_service_last_started">Время последнего запуска Сервиса</string>
+    <string name="counter_value">Значение счетчика</string>
+    <string name="start">Запуск</string>
+    <string name="stop">Остановка</string>
+    <string name="first_run">Первый запуск</string>
+    <string name="server_is_running">Сервис запущен</string>
+    <string name="server_is_stopped">Сервис остановлен</string>
+</resources>
